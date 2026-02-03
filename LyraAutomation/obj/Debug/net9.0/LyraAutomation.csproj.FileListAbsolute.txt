@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\WORKSPACE\LyraAutomation\obj\Debug\net9.0\LyraAutomation.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\WORKSPACE\LyraAutomation\obj\Debug\net9.0\LyraAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\WORKSPACE\LyraAutomation\obj\Debug\net9.0\LyraAutomation.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\WORKSPACE\LyraAutomation\obj\Debug\net9.0\LyraAutomation.AssemblyInfo.cs
+C:\Users\Daniel\Documents\WORKSPACE\LyraAutomation\obj\Debug\net9.0\LyraAutomation.csproj.CoreCompileInputs.cache
