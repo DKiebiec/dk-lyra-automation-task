@@ -1,5 +1,5 @@
 # Lyra Automation Tests
-Dependencies
+## Dependencies
 - Unreal Engine 5.3.2 with Lyra Starter Game
 - AltTester Unreal SDK
 - .NET 6.0+
